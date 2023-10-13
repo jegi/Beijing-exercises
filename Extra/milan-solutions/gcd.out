@@ -1,0 +1,1 @@
+[Push Wrong,Push Wrong,Push (Numeric 148),Store 0,Push (Numeric 58),Store 1,Fetch 0,Fetch 2,Apply2 Eq,Apply1 Not,JumpUnless 14,Fetch 0,Fetch 2,Apply2 Less,JumpUnless 5,Fetch 1,Fetch 1,Apply2 Sub,Store 1,Jump 4,Fetch 0,Fetch 2,Apply2 Sub,Store 0,Jump (-19),Fetch 0,Display,Halt]

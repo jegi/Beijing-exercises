@@ -1,0 +1,1 @@
+[Push Wrong,Push Wrong,Push (Numeric 3),Store 0,Push (Numeric 4),Store 1,Fetch 1,Fetch 1,Apply2 Add,Store 1,Fetch 1,Fetch 1,Apply2 Sub,Store 0,Fetch 1,Fetch 1,Apply2 Sub,Store 1,Fetch 0,Display,Fetch 1,Display,Halt]
